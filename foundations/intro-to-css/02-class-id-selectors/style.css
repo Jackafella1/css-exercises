@@ -1,14 +1,18 @@
-. { background-color: rgb(212, 85, 85)rgb(255, 192, 203);
-        font-family: "Verdana", "DejaVu Sans", sans-serif;
-
+.bg-fonts { 
+            background-color: rgb(255, 192, 203);
+            font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-#A {color: #0000ff;
-    font-size: 36px;
+#color-font-size { 
+                    color: #0000ff;
+                    font-size: 36px;
 }
 
-.font {font-size: 24px;}
+.fs { 
+        font-size: 24px;
+    }
 
-#B {background-color: rgb(144, 238, 144);
-    font-size: 24px;
-    font-weight: bold;}
+#bg-g-fs-b { 
+            background-color: rgb(144, 238, 144);
+            font-size: 24px;
+            font-weight: bold;}
