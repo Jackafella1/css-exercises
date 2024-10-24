@@ -1,0 +1,9 @@
+.bg-blk-font-white { background-color: black;
+                     color: white;
+}
+
+.bg-yel { background-color: yellow;}
+
+.font-size-font-fam {font-size: 28px;
+                     font-family: "Helvetica", "Times New Roman", sans-serif;
+}
